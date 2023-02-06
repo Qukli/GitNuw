@@ -1,0 +1,7 @@
+athspec 'm' did not match any file(s) known to git
+error: pathspec 'Init' did not match any file(s) known to git
+PS C:\Users\sergy\Desktop\Gitprogect> git commit - m "nit"  
+error: pathspec '-' did not match any file(s) known to git
+error: pathspec 'm' did not match any file(s) known to git
+error: pathspec 'nit' did not match any file(s) known to git
+
